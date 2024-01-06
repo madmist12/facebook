@@ -1,0 +1,168 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.mains{
+    height: 1000px;
+    background-color: rgba(240, 242, 245);
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.navhead{
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+}
+.navbar{
+    box-shadow: 0.5px 0.5px 5px;
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+}
+.container-fluid{
+    display: flex;
+    align-items: center;
+}
+.navhome{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+.center{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+.left{
+    display: flex;
+}
+.right{
+    width: 80%;
+    display: flex;
+    justify-content: space-evenly;
+
+}
+.icon{
+    font-size: 20px;
+    color: black;
+}
+.heading{
+    font-weight: 600;
+    text-align: left;
+    color: rgb(14, 108, 248);
+    font-size: 80px;
+}
+.headd{
+    margin-left: 250px;
+}
+.cred{
+    margin-right: 250px;
+}
+.btn-primary{
+    width: 100%;
+    background-color: blue;
+    color: white;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.loginlink{
+    color: white;
+    text-decoration: none;
+    font-weight: 600;
+}
+.subheading{
+    font-size: 20px;
+    text-decoration: none;
+    font-weight: 400;
+}
+.btn-success{
+    background-color: greenyellow;
+    width: 100%;
+  
+}
+.login{
+    padding: 20px;
+    width: 350px;
+    box-shadow: 1px 1px 10px;
+    height: 320px;
+    border: 1px solid;
+    border-radius: 10px;
+    background-color: white;
+}
+#forgot{
+    list-style: none;
+    padding-left: 63px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    color: blue;
+    font-weight: 600;
+}
+.list{
+    display: flex;
+    width: 80%;
+    justify-content: space-evenly;
+    list-style: none;
+    margin-right: 100px;
+    text-decoration: none;
+    color: grey;
+
+    
+}
+label{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif  ;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 300;
+}
+.listitem{
+    font-size: 12px;
+    font-weight: 100;
+    text-decoration: none;
+    color: grey;
+    
+}
+.linkk{
+    text-decoration: none;
+    color: grey;
+
+}
+.uiList{
+    width: 97%;
+    display: flex;
+    font-style: none;
+    text-decoration: none;
+    list-style: none;
+    justify-content: space-evenly;
+    color: black;
+}
+.langg{
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 13px;
+    color: grey;
+}
+.footerl{
+    text-decoration: none;
+    margin: 10px;
+    color: black;
+}
+.item-left{
+    margin-left: 20px;
+    padding:20px;
+}
+.left-items{
+    padding-left: 50px;
+    padding-top: 20px;
+    list-style: none;
+    position: fixed;
+}
+
+.content{
+    display: flex;
+
+    justify-content: space-evenly;
+}
